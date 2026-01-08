@@ -6,7 +6,6 @@ This repository contains the SQL scripts and solutions for **LAB TASK 2: Working
 The database models a **college academic system** with courses, students, modules, and enrolments.  
 It is implemented using **Oracle SQL** and tested on **Oracle Live SQL (cloud environment)**.
 
----
 
 ## 🗂 Database Description
 The database consists of **four related tables**:
