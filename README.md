@@ -22,14 +22,11 @@ The database consists of **four related tables**:
 - Modules can be taken by **many students**
 - The **ENROLMENT** table implements the many-to-many relationship
 
----
 
 ## 🛠 Technologies Used
 - Oracle SQL
 - Oracle Live SQL (Cloud)
 - GitHub (Version Control & Collaboration)
-
----
 
 
 ## 🚀 How to Run the Project (Oracle Live SQL)
